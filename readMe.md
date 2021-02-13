@@ -1,0 +1,1 @@
+using css grid to make this website responsive across all device
